@@ -1,0 +1,52 @@
+1. music instrument and culture developed partially isolated in different regions
+
+what was the same everywhere was the laws of physics and, to a degree, how humans perceive sound
+
+obvious and uniform even if developed independent was octave:
+the note with double frequency, then double of double and so on feels is "same" even while higher,
+it has the same "meaning"
+#demo:
+clean do re mi fa mi re do
+end with lower do while singing the one from the initial octave
+then try doing the same with different note
+then play with octaves - the meaning kinds of same, though sound changes - more like organ
+
+there's a shepard scale - the illusion effect, that uses this feature of octaves to carefully substitute a note with its lower octave to create an illusion of perpetual scale / melody
+https://www.youtube.com/watch?v=bbKbE8y95sg (simple scale)
+a melody:
+https://en.wikipedia.org/wiki/File:Melodia_Perp%C3%A8tua.wav
+
+then play with smaller intervals to show how it changes the mood, compared to octave
+
+so two notes with octave interval between them have this property of having the same meaning
+
+and it's same in all music traditions
+
+and the difference between them is how the octave is divided - into how many notes, and with which intervals between them
+
+however, it's not completely arbitrary - you cannot just divide however you want
+because human tend to perceive certain intervals as good, consonant, and others - as dissonant
+although it's not strict, and can even change in time with traditions - like sept chord that was used more and more
+still - show septima with the same do-re-mi
+generally
+
+the western tradition that we know, divides octave into 12 equal intervals
+
+and musicians of course noticed that different notes would combine in some interesting ways
+
+but how to divide it into different notes between them?
+
+
+
+
+
+
+the same were the rules of physics
+2. what was the same were the rules of physics
+and the 
+octave
+overtones
+
+$k = pow(2,1/12);
+__(440*$k);
+__(440*$k*$k);
